@@ -19,8 +19,3 @@ To run these notebooks, you will need a Python environment with Jupyter and the 
 - NumPy
 - Matplotlib
 - PIL (Python Imaging Library)
-
-- 
-## Usage
-
-After installing the required packages, clone this repository to your local machine
