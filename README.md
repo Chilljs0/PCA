@@ -19,3 +19,7 @@ To run these notebooks, you will need a Python environment with Jupyter and the 
 - NumPy
 - Matplotlib
 - PIL (Python Imaging Library)
+
+## License
+
+This project is open-sourced under the MIT License. See the LICENSE file for more details.
